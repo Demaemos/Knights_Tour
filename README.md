@@ -1,9 +1,15 @@
 #### Author: Tyler Andrews
 #### Date: Wed 07/01/2026 - Fri 07/10/2026
-#### Course: CS421 Algorithms
-#### Project: Programming Project 1: Knight's Tour
-
+#### Project: Knight's Tour
+#### Description: This Java program computes knight's tours (paths where a knight visits every square exactly once) for arbitrary board sizes and starting positions. It includes example runs and recorded outputs.
 ---
+
+Highlights
+
+Language: Java (single-language repo)
+Purpose: Demonstrates algorithm design, backtracking/search, and optimization techniques
+Status: Working; contains example outputs and usage instructions
+
 ```
 java KnightTour 0 7 1 1
 
