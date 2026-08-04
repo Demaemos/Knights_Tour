@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * Author: Tyler Andrews
- * Date: Wed 07/01/2026  -
+ * Date: Wed 07/01/2026  - Fri 07/10/2026
  * Course: CS421 Algorithms
  * Project: Programming Project 1: Knight's Tour
  *
